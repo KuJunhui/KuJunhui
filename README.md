@@ -1,4 +1,4 @@
-# 👋 Hi, I'm KooJunHui
+# 👋 Hi, I'm KuJunHui
 
 📌 About Me  
 
