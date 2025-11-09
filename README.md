@@ -82,4 +82,4 @@ I also built **AI-driven services** using LangChain, RAG, and LangGraph, and tha
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:junhui9789@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jun_whistle.9?igsh=MW1sem1pNHc5eWcxZA==)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Koojunhui&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kujunhui&show_icons=true&theme=radical)
