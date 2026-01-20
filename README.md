@@ -25,11 +25,6 @@ I also built **AI-driven services** using LangChain, RAG, and LangGraph, and tha
 
 ---
 
-# 📄 Resume
-- **Notion**: [[Open](https://www.notion.so/Backend-Developer-26eada0d3ad780a3a291ce21aaf748b4)](#)
-
----
-
 # 🗂 Portfolio
 - **Portfolio(PDF)**: [[Open](https://drive.google.com/file/d/1jamJ8Cn2smJ9E65uc8Bz_YTlhkOzZq1P/view?usp=drive_link)](#)
 
