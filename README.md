@@ -2,7 +2,7 @@
 
 📌 About Me  
 
-I am a senior student majoring in Computer Science at Incheon National University and a **backend developer specialized in Java/SpringBoot**.  
+With a B.S. in Computer Science from Incheon National University, I specialize in building backend systems with Java and Spring Boot.
 
 With hands-on experience from planning to server performance testing and monitoring (K6, Grafana), I am confident in delivering **stable service operations and handling high traffic**.  
 
