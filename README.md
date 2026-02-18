@@ -20,7 +20,7 @@ I also built **AI-driven services** using LangChain, RAG, and LangGraph, and tha
 ---
 
 # 🏆 Awards
-- 멋쟁이사자처럼 실전 프로젝트 우수상 (2025.02.24)  
+- [멋쟁이사자처럼] 실전 프로젝트 우수상 (2025.02.24)  
 - [숭실대X렛유인] 2025 ICT프로젝트 챌린지 우수상 (2025.08.30)  
 
 ---
